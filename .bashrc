@@ -2,8 +2,8 @@
 # ~/.bashrc
 #
 
-# SSH shit
-export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
+# SSH stuff
+#export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
